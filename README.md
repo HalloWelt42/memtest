@@ -4,7 +4,7 @@ DOM und SimpleXML sind eigentlich nicht zwei verschiedene Parser . Der echte Par
 
 Quelle: https://code.i-harness.com/de/q/4949f7
 
-# Wer nutzt noch libxml
+# Wer nutzt noch libxml?
 
 * DOM
 * SimpleXML
